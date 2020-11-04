@@ -4,22 +4,22 @@ particlesJS("particles-js",
       "value":80,
       "density": {
         "enable":true,
-        "value_area":800
+        "value_area":8000
       }
     },
     "color": {
       "value":"#a5e3c2"
     },
     "shape":{
-      "type":"polygon",
+      "type":"image",
       "stroke":{
         "width":0,
         "color":"#000000"
       },
       "polygon":{"nb_sides":5},
       "image":{
-        "src":"img/github.svg",
-        "width":100,"height":100
+        "src":"https://www.pinclipart.com/picdir/middle/202-2027166_fish-svg-png-icon-free-download-icon-clipart.png",
+        "width":500,"height":500
       }
     },
     "opacity":{
@@ -32,7 +32,7 @@ particlesJS("particles-js",
         "sync":false}
     },
     "size":{
-      "value":3,
+      "value":30,
       "random":true,
       "anim":{
         "enable":false,
@@ -42,7 +42,7 @@ particlesJS("particles-js",
       }
     },
     "line_linked":{
-      "enable":true,
+      "enable":false,
       "distance":150,
       "color":"#ffffff",
       "opacity":0.4,
