@@ -18,7 +18,7 @@ particlesJS("particles-js",
       },
       "polygon":{"nb_sides":5},
       "image":{
-        "src":"https://www.pinclipart.com/picdir/middle/202-2027166_fish-svg-png-icon-free-download-icon-clipart.png",
+        "src":"https://res.cloudinary.com/dhgfifwgd/image/upload/v1604571083/sebastien_saunier-removebg-preview_rkdjvp.png",
         "width":500,"height":500
       }
     },
