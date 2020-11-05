@@ -18,8 +18,8 @@ particlesJS("particles-js",
       },
       "polygon":{"nb_sides":5},
       "image":{
-        "src":"https://res.cloudinary.com/dhgfifwgd/image/upload/v1604571083/sebastien_saunier-removebg-preview_rkdjvp.png",
-        "width":500,"height":500
+        "src":"https://res.cloudinary.com/dhgfifwgd/image/upload/v1604588208/colomban-removebg-preview_n7bpsk.png",
+        "width":250,"height":500
       }
     },
     "opacity":{
